@@ -7,7 +7,7 @@ This repository will hold the info about the work I have done in the course and 
 Project 1: Analyzing IBM HR Analytics Employee Attrition & Performance using Decision Tree and Keras Deep Learning
 
     -Performed exploratory data analysis of the given data, identified features and performed data cleaninsing
-    -Implemented data driven visualization to provide better insight using libries like Seaborn and Plotly. 
+    -Implemented data driven visualization to provide better insight using libraries like Seaborn and Plotly. 
     -Designed machine learning models and performed model adjustments to improve its performances
     -Implemented deep learning library Keras for the created modified data 
  
